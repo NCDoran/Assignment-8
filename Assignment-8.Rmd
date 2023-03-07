@@ -1,0 +1,43 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Nicole Doran<br>ncdoran@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- Ohio
+- Ice cream
+- Snow leopard
+
+
+## About Me | Academic
+
+- *The* Ohio State University
+- Biology
+
+# Data Science
+
+## Course topics | Three things I enjoyed learning about
+
+1. How to make a repo on GitHub
+2. Tidy data and best practices for keeping organized data sets
+3. Data visualization and graphic design
+
+## Course topics | Three things I want to learn more about
+
+1. Using R Markdown for presentations
+2. Using Github for collaborations
+3. Ethics in data science
+
+## {data-background=coral.jpeg data-background-size=cover}
+
+
+
